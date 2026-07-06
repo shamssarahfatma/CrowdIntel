@@ -132,13 +132,21 @@ python main.py --input path/to/video.mp4
 
 ## Screenshots
 
+## Main Menu
+
+![Main Menu](images/main-menu.png)
+
+
+## Weapon Detection
+
+![Weapon Detection](images/Gun-weapon-detection.jpg)
+
 ### Weapon Detection (Live Webcam)
 
-![Weapon Detection](images/weapon-detection.jpg)
+![Knife Weapon Detection](images/Knife-weapon-detection.jpg)
 
 The system detects weapons using YOLOv3 and highlights the detected object along with confidence values.
 
----
 
 ### Abnormal Crowd Behaviour Detection (Demo Video)
 
