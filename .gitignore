@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+
+# Test, coverage, and tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+
+# Generated media and logs
+outputs/
+*.log
+# Official UMN source and locally prepared demo are local-only dataset assets.
+Crowd-Activity-All.avi
+
+detections/*
+!detections/.gitkeep
+logs/*
+!logs/.gitkeep

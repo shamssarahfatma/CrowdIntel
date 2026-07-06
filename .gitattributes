@@ -1,0 +1,4 @@
+# Trained assets exceed or can approach GitHub's normal file-size limits.
+*.weights filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text

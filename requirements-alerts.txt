@@ -1,0 +1,3 @@
+# Optional: only needed for SMS notifications.
+-r requirements.txt
+twilio==9.3.8
