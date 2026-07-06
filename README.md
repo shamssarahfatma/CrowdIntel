@@ -19,6 +19,14 @@ The project combines **YOLOv3** for weapon detection and a **TensorFlow CNN mode
 - Custom video input support
 
 ---
+## System Architecture
+
+The following diagram shows the overall workflow of the CrowdIntel project.
+
+<p align="center">
+  <img src="images/architecture-diagram.png" width="900">
+</p>
+
 
 ## Technologies Used
 
